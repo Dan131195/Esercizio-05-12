@@ -1,0 +1,3 @@
+// Icone feathericons
+
+feather.replace();
