@@ -10,9 +10,8 @@ body {
   font-size: 1rem;
 }
 
-main{
+main, footer{
     background-color: #F5F4F8;
-    height: 150vh;
 }
 
 #notifications, #user{
@@ -32,3 +31,6 @@ main{
     height: 3rem;
 }
 
+#contact a {
+    text-decoration: none;
+}
